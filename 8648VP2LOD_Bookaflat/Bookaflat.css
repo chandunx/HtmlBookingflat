@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-image {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.raa {
+    background-color: white;
+    width: 100%;
+}
+
+.first-card {
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    height: 30vh;
+    padding: 30px;
+}
+
+.first-head {
+    font-family: BreeSerif;
+    font-weight: bold;
+    font-size: 23px;
+    color: orange;
+}
+
+.first-para {
+    font-family: BreeSerif;
+    color: #7b8794;
+}
+
+.first-button {
+    background-color: #f19116;
+    color: white;
+    margin-top: 20px;
+
+}
+
+.second-image {
+    background-color: black;
+    height: 100vh;
+    padding: 10px;
+}
+
+.second-card {
+    background-color: white;
+    border-radius: 8px;
+    height: 25vh;
+    margin-top: 20px;
+}
+
+.small-imagea {
+
+    width: 20vw;
+}
+
+.second-head {
+    font-weight: bold;
+    font-family: BreeSerif;
+    font-size: 20px;
+    color: #222222;
+}
+
+.mini-card {
+    padding: 10px;
+    text-align: left;
+}
+
+.mini-car {
+    padding: 20px;
+    text-align: left;
+}
+
+.second-para {
+    color: #7b8794;
+}
+
+.fourth-para {
+    color: white;
+}
+
+.third-image {
+    background-color: black;
+    height: 100vh;
+}
+
+.fourth-image {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png");
+    background-size: cover;
+    height: 40vh;
+    width: 100vw;
+}
+
+.fourth-imag {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d2-img.png");
+    background-size: cover;
+    height: 40vh;
+    width: 100vw;
+}
+
+.fourth-ima {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d3-img.png");
+    background-size: cover;
+    height: 40vh;
+    width: 100vw;
+}
+
+.swiggy {
+    height: 20px;
+    width: 20px;
+}
+
+.third-para {
+    color: white;
+}
+
+.mini {
+    margin-left: 20px;
+}
+
+.second-button {
+    background-color: orange;
+    color: white;
+    margin: 10px;
+}
